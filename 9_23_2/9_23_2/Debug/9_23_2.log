@@ -1,0 +1,11 @@
+﻿生成启动时间为 2017/9/23 星期六 21:05:56。
+     1>项目“c:\Users\administrator\documents\visual studio 2013\Projects\9_23_2\9_23_2\9_23_2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>c:\users\administrator\documents\visual studio 2013\projects\9_23_2\9_23_2\源.cpp(57): fatal error C1075: 与左侧的 大括号“{”(位于“c:\users\administrator\documents\visual studio 2013\projects\9_23_2\9_23_2\源.cpp(22)”)匹配之前遇到文件结束
+     1>已完成生成项目“c:\Users\administrator\documents\visual studio 2013\Projects\9_23_2\9_23_2\9_23_2.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.29
